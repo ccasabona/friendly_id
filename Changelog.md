@@ -5,6 +5,8 @@ suggestions, ideas and improvements to FriendlyId.
 
 ## Unreleased
 
+* Revert "Make `first_by_friendly_id` case insensitive using `downcase`" ([#951](https://github.com/norman/friendly_id/pull/951))
+
 ## 5.4.0 (2020-08-14)
 
 * Fix Ruby 2.7 keyword params deprecation warning ([#939](https://github.com/norman/friendly_id/pull/939))
